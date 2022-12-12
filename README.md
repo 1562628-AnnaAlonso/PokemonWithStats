@@ -19,7 +19,6 @@ If you want to check all the process go to the result.ipynb file above!
 The repository is composed as follows:
 - data: contains the csv of the dataset
 - img: contains images from results
-- requirements.txt: file that contains all the libraries that this project uses
 - results.ipynb: notebook where the project has been developed
 
 
